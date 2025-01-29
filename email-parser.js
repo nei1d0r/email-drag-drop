@@ -1,0 +1,1 @@
+const MimeParser = require('emailjs-mime-parser').default;
